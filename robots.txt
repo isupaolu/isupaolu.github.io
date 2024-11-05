@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://isupaolu.github.io/Odo/sitemap_index.txt
+Sitemap: https://isupaolu.github.io/Vqr/sitemap_index.txt
+Sitemap: https://isupaolu.github.io/gWQ/sitemap_index.txt
+Sitemap: https://isupaolu.github.io/gbd/sitemap_index.txt
